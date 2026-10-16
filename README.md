@@ -30,7 +30,7 @@ The Verilog testbench automatically dumps a `uart_waves.vcd` file when it finish
 If you're on Windows doing this through WSL like I am:
 ```bash
 # navigate to wherever your windows drive is mounted
-cd /mnt/d/RAHUL/UART
+cd /mnt/d/ALOK/UART
 gtkwave uart_waves.vcd
 ```
 *(Note for WSL: WSLg handles the GUI automatically on Win11, but on Win10 you might need to run VcXsrv/Xming first)*
